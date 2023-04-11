@@ -16,11 +16,11 @@ I could write a couple of paragraphs about what Terraform is and what it does, b
 
 > Terraform is an open-source infrastructure as code software tool that provides a consistent CLI workflow to manage hundreds of cloud services. Terraform codifies cloud APIs into declarative configuration files.
 
-The best part about Terraform, other than other options such as AWS Cloudformation, is that it is provider agnostic. In fact, Terraform bost of supporting over 500 different providers within their registry.
+The best part about Terraform, other than other options such as AWS CloudFormation, is that it is provider-agnostic. In fact, Terraform boast of supporting over 500 different providers within their registry.
 
 If you want to have your DNS in Cloudflare, your server instances in AWS EC2, and store data in Google Cloud Platform Big Data, you can manage all that within a single terraform deployment. You can share information, or outputs, from each service and link them together with a minimum of fuss.
 
-Another great feature is the ability to build configurable and reusable modules. Create a module for setting up your default core network, and then reuse that to deploy that across multiple regions, environments, accounts, and more. You can also se variable blocks to allow configuration of the details of each deployment. You might only use one availability zone for your development environments, but up that to three for production.
+Another great feature is the ability to build configurable and reusable modules. Create a module for setting up your default core network, and then reuse that to deploy that across multiple regions, environments, accounts, and more. You can also set variable blocks to allow configuration of the details of each deployment. You might only use one availability zone for your development environments, but up that to three for production.
 
 ## Example Code
 
