@@ -25,7 +25,7 @@ disqusShortname = ""
   # Files are imported in the order they appear here, after
   # theme.css and theme.js, respectively.
   css_modules = []
-  js_modules = []
+  js_modules = ["https://tarptaeya.github.io/repo-card/repo-card.js"]
 
   # Description and meta data for the search engines
   author = "Nick Perkins"
@@ -99,7 +99,7 @@ disqusShortname = ""
     stickyNav = false
 
     # show a language chooser in the header
-    showHeaderLanguageChooser = true
+    showHeaderLanguageChooser = false
 
   # Content configuration
     # Enable an optional pinned page to display at the top of the index
