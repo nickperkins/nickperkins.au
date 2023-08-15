@@ -86,7 +86,7 @@ disqusShortname = ""
     avatarEmail = ""
 
     # set an path to the image file you want to use | overwrites avatar by email
-    customImage = "images/nick.jpg"
+    customImage = "images/nick.jpeg"
 
     # define the icon you want to use for the overlay for the customImage or avatar.
     overlayIcon = "fa-home"
