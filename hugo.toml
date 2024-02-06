@@ -146,7 +146,7 @@ disqusShortname = ""
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
-      { link = "https://aus.social/@Nick", icon = "fab fa-mastodon", rel = "me" },
+      { link = "https://mastodon.au/@nicholosophy", icon = "fab fa-mastodon", rel = "me" },
       { link = "https://github.com/nickperkins", icon = "fab fa-github" },
     ]
 
