@@ -2,7 +2,7 @@
 title: "About Nick"
 date: 2023-04-09T13:08:42+10:00
 draft: false
-excludeFromTopNav: false
+menu: topnav
 
 # set the link if you want to redirect the user.
 link: ""

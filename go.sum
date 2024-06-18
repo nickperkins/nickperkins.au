@@ -1,2 +1,6 @@
 github.com/Lednerb/bilberry-hugo-theme/v3 v3.24.1 h1:zf40bmmTflCWhU9knOCey6ULgvJi8lKvYcaekRYM0yM=
 github.com/Lednerb/bilberry-hugo-theme/v3 v3.24.1/go.mod h1:ERTLq/0yIBb0jN0Dh+w5G4wCp9TrB0JY86+Zh+26Dkg=
+github.com/Lednerb/bilberry-hugo-theme/v3 v3.25.4 h1:WL/K4fAKUW7LIRJi/9VznBWNntfvm/dalRcoq/FPhJQ=
+github.com/Lednerb/bilberry-hugo-theme/v3 v3.25.4/go.mod h1:ERTLq/0yIBb0jN0Dh+w5G4wCp9TrB0JY86+Zh+26Dkg=
+github.com/Lednerb/bilberry-hugo-theme/v4 v4.6.1 h1:IFDoN8jIAiWStaLcwGD7hdvoqZEa3kVZau5bN43mqzc=
+github.com/Lednerb/bilberry-hugo-theme/v4 v4.6.1/go.mod h1:PhS2ifHzl6AS7CmyKYLygxpQmi3EPcD9DS/EXOFIoFo=
