@@ -2,7 +2,7 @@ title = "Nick Perkins"
 baseURL = "https://nickperkins.au/"
 
 # Option 1 (recommended): adding the theme as a Hugo module
-theme = "github.com/Lednerb/bilberry-hugo-theme/v3"
+theme = "github.com/Lednerb/bilberry-hugo-theme/v4"
 
 # Option 2: cloning/copying the theme files
 # theme = "bilberry-hugo-theme"
