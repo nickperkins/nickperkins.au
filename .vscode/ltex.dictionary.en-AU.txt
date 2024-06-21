@@ -1,5 +1,0 @@
-artifacts
-Hutly
-Hono
-hillclimbs
-hillclimb
