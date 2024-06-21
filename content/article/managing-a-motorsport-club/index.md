@@ -6,7 +6,7 @@ draft: false
 categories: [Motorsport]
 tags: [motorsport, motorsport clubs, management]
 toc: false
-author: ""
+author: "Nick Perkins"
 ---
 Last year, I decided to run for a position on the management committee of the motorsport club I'm a member of. It has been eye-opening to see what goes on to run a club with around 100 members.
 

@@ -6,7 +6,7 @@ draft: false
 categories: [Serverless, AWS]
 tags: [aws, lambda, serverless, docker, chalice]
 toc: false
-author: ""
+author: "Nick Perkins"
 ---
 <!-- cSpell:words pyodbc ODBC msodbsql -->
 This week I was working on an AWS Lambda function that needed to read and write from a legacy Microsoft SQL database. It's written using the [AWS Chalice](https://github.com/aws/chalice) framework and in local testing everything looked great. Not so much when we needed to deploy it to AWS for testing.

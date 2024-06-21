@@ -6,7 +6,7 @@ draft: false
 categories: [Cloudflare, Opine]
 tags: [cloudflare d1, cloudflare workers, blog, comments]
 toc: false
-author: ""
+author: "Nick Perkins"
 ---
 I've spent the last couple of weeks off work, which has given me time to tinker with some different tech. For starters, I migrated this blog over to [Hugo](gohugo.io), a static site generated written in go. I've never had comments on this version of my blog, but I wondered how difficult it might be to roll my own system using [Cloudflare Workers](https://workers.cloudflare.com/)?
 
