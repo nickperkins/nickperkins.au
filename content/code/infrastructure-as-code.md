@@ -6,7 +6,7 @@ draft: false
 categories: [devops]
 tags: [infrastructure as code, terraform, aws, devops]
 toc: false
-author: ""
+author: "Nick Perkins"
 ---
 Over the last couple of months I've been working on a project for a containerised orchestration platform using Infrastructure as Code. This has meant I've spent most of my time working with [Terraform](https://www.terraform.io/).
 

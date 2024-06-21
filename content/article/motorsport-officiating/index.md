@@ -6,7 +6,7 @@ draft: false
 categories: [Motorsport]
 tags: [motorsport, volunteering]
 toc: false
-author: ""
+author: "Nick Perkins"
 ---
 A part of my life that I haven't written about before is my volunteer motorsport officiating. I've loved motorsport for as long as I can remember. Some of my earliest memories are watching the Bathurst 1000 or the Formula 1 Australian Grand Prix from Adelaide on television. My parents were not motorsport nuts, but I did go to the Gold Coast Indy 300 in the early 1990s. We would often drive past Surfers Paradise International Raceway and the little Go-Kart track there, but we were always going somewhere else.
 
