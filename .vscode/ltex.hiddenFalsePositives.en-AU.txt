@@ -1,1 +1,0 @@
-{"rule":"MORFOLOGIK_RULE_EN_AU","sentence":"^\\QA simple API created with the Hono framework.\\E$"}

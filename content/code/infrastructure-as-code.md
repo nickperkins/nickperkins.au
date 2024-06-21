@@ -26,8 +26,8 @@ Another great feature is the ability to build configurable and reusable modules.
 
 I've put together a [repository](https://github.com/nickperkins/infrastructure) which shows just how easy it is to set up a core network with AWS including:
 
-- VPC
-- Public and Private Subnets
-- An internet gateway for the public subnet
-- NAT Gateways for the private subnets
-- Routing tables to bring it all together
+* VPC
+* Public and Private Subnets
+* An internet gateway for the public subnet
+* NAT Gateways for the private subnets
+* Routing tables to bring it all together

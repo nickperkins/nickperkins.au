@@ -20,6 +20,8 @@ googleAnalytics = "G-12HBDJH65Y"
 disqusShortname = ""
 
 [params]
+  # specialColor = "#FFFF00"
+  highlightColor = "#53589f"
   # Custom CSS / JS modules that will be imported by the template.
   # Files are relative to the static/ directory or a URL.
   # Files are imported in the order they appear here, after

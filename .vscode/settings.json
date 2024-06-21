@@ -1,0 +1,8 @@
+{
+    "ltex.language": "en-AU",
+    "ltex.disabledRules": {
+        "en-AU": [
+            "MORFOLOGIK_RULE_EN_AU",
+        ]
+    }
+}
