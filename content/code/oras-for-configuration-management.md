@@ -1,6 +1,6 @@
 ---
 title: "ORAS for Configuration Management"
-date: 2024-06-28T15:21:39+10:00
+date: 2024-06-29T18:00:00+10:00
 draft: false
 
 categories: [platform engineering]
