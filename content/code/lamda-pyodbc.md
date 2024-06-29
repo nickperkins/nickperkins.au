@@ -3,7 +3,7 @@ title: "Using pyodbc in AWS Lambda functions"
 date: 2019-07-21T12:57:05+10:00
 draft: false
 
-categories: [Serverless, AWS]
+categories: [Software Development]
 tags: [aws, lambda, serverless, docker, chalice]
 toc: false
 author: "Nick Perkins"

@@ -2,18 +2,18 @@ version: "0.2"
 allowCompoundWords: true
 language: en,en-AU
 ignorePaths:
-  - ".cspell.config.yaml"
-  - ".cspell/custom-dictionary.txt"
+  - .cspell.config.yaml
+  - .cspell/custom-dictionary.txt
   - "**/node_modules/**"
   - "*.min.*"
   - "{coverage,dist,.cache,.git,.vscode,.DS_Store,tests}/**/*"
 ignoreRegExpList:
-  - "<!-- prettier-ignore -->\\n(`{3,})\\w*\\n[\\s\\S]+?\\1"
-  - "\\[(\\*{2})?@\\w+?\\1\\]"
-  - "\\[`\\w+`\\]"
-  - "\\/.*?\\/"
-  - "\\_\\w+"
-  - "\\#\\w+"
+  - <!-- prettier-ignore -->\n(`{3,})\w*\n[\s\S]+?\1
+  - \[(\*{2})?@\w+?\1\]
+  - \[`\w+`\]
+  - \/.*?\/
+  - \_\w+
+  - \#\w+
   - "```bash\\n[\\s\\S]+?```"
 flagWords:
   - blacklist
@@ -22,12 +22,17 @@ flagWords:
   - gray
   - hte
   - whitelist
-dictionaryDefinitions:
-  - name: custom
-    path: ".cspell/custom-dictionary.txt"
-dictionaries:
-  - custom
-words: []
+words:
+  - Hono
+  - HRCCQ
+  - Hutly
+  - imgproc
+  - Monstera
+  - motorsport
+  - nickperkins
+  - Shih
+  - shortcode
+  - ORAS
 ignoreWords: []
 import: []
 useGitignore: true

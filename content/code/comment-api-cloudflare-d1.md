@@ -3,7 +3,7 @@ title: "A simple static blog comments system using Cloudflare Workers and D1"
 date: 2023-04-12T09:45:41+10:00
 draft: false
 
-categories: [Cloudflare, Opine]
+categories: [Software Development]
 tags: [cloudflare d1, cloudflare workers, blog, comments]
 toc: false
 author: "Nick Perkins"
