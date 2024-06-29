@@ -4,7 +4,7 @@ date: 2023-08-15T11:07:46+10:00
 draft: false
 
 categories: [Motorsport]
-tags: [motorsport, volunteering]
+tags: [volunteering, motorsport official, timekeeping, flag marshaling]
 toc: false
 author: "Nick Perkins"
 ---

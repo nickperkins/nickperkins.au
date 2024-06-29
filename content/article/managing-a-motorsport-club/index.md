@@ -4,7 +4,7 @@ date: 2024-02-05T19:43:46+10:00
 draft: false
 
 categories: [Motorsport]
-tags: [motorsport, motorsport clubs, management]
+tags: [motorsport clubs, management]
 toc: false
 author: "Nick Perkins"
 ---
