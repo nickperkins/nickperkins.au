@@ -3,7 +3,7 @@ title: "Infrastructure as code with Terraform"
 date: 2021-04-18T12:53:08+10:00
 draft: false
 
-categories: [devops]
+categories: [Platform Engineering]
 tags: [infrastructure as code, terraform, aws, devops]
 toc: false
 author: "Nick Perkins"
