@@ -170,4 +170,4 @@ config.json
 
 ## Summary
 
-Storing artifacts with your container images using ORAS makes it simple to distribute configuration fils in the same way that you distribute your container images. The ability to then link these artifacts to your container images makes it simple to know exactly which configuration version to use when deploying your software. This is great in a situation where your ops team needs to run a rollback late at night - no need to consult separate documentation or raise the on call software engineer from their slumber.
+Storing artifacts with your container images using ORAS makes it simple to distribute configuration files in the same way that you distribute your container images. The ability to then link these artifacts to your container images makes it simple to know exactly which configuration version to use when deploying your software. This is great in a situation where your ops team needs to run a rollback late at night - no need to consult separate documentation or raise the on call software engineer from their slumber.
