@@ -25,7 +25,7 @@ I love problem-solving, learning, and digging into the meat of the issue.
 
 When not inside getting a screen tan, I am a volunteer motorsport official. I have been an official since 2015, working in many areas such as flagging, paddock marshaling, and track marshaling. Since 2023, I have moved into timekeeping which has seen me quickly progress into senior roles, such as chief timekeeper for support categories at the Gold Coast 500 in 2024.
 
-{{< imgproc img="nick-official.jpeg" command="Resize" options="x250" alt="A picture of a white, balding man with a grey and brown beard. He is wearing a dull-green GitHub cap with a radio headset over it, dark sunglasses, a bright orange hi-vis short and a lanyard around his neck holding a whistle. He looks very official!" >}}I love being a motorsport official!{{< /imgproc >}}
+{{< imgproc img="FB_IMG_1737108967029.jpg" command="Resize" options="x250" alt="A white, balding man with a grey and brown beard. He is wearing a blue polo shirt and glasses, sitting in front of computer screens showing timing information. He looks very official!" >}}I love being a motorsport official!{{< /imgproc >}}
 
 This has seen me work alongside other experienced officials to build a volunteer group named [GP Timers](https://gptimers.com.au) for timekeepers in South East Queensland. We hope to provide a safe and fun environment for people to learn timekeeping at circuit events and find an outlet for their passion.  
 
