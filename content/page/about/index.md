@@ -1,6 +1,6 @@
 ---
 title: "About Nick"
-date: 2023-04-09T13:08:42+10:00
+date: 2025-01-17T20:08:42+10:00
 draft: false
 menu: topnav
 
@@ -13,19 +13,23 @@ target: "_blank"
 
 My name is Nick Perkins, and this is my personal blog. This is where I come to jot down my thoughts on things that interest me, like cloud computing, infrastructure as code, Kubernetes, platform engineering, motorsport... I guess nothing much is off limits.
 
-I am currently working at Domino's Pizza Enterprises as a Senior DevOps Engineer, as the Tech Lead on the Platform Foundation team.
+I currently work for Domino's Pizza Enterprises (DPE) in the role of Principal DevOps Engineer. I am the technical lead on the Platform Foundation team which is a product team working to reducing the cognitive load experienced by DPE engineers.
 
-Before joining Domino's, I was a Senior DevOps Engineer at Hutly, and a Software Engineer at Arkose Labs.
+I help drive the adoption of Platform Engineering culture at DPE, and work with stakeholders across Cloud Engineering, Architecture, Software Engineering and more to strive. I run fortnightly DevOps brown bag sessions to help build a community of engineers who embrace and share better engineering practices. 
 
-I have more than twelve years of experience as a software engineer, plus experience in business analysis, project management and team leadership. Before that, I worked in financial administration and assets management within the public sector for over seven years.
+Before joining DPE, I was a Senior DevOps Engineer at Hutly, and a Software Engineer at Arkose Labs.
+
+I have have many years of experience as a software engineer, plus experience in business analysis, project management and team leadership. Before that, I worked in financial administration and assets management within the public sector for over seven years.
 
 What to some people may look like a weird path to travel has allowed me to develop a bunch of soft skills to go along with my technical skills.
 
-I love problem-solving, learning, and digging into the crux of the issue.
+I love problem-solving, learning, and digging into the meat of the issue.
 
-When not inside getting a screen tan, I am a volunteer motorsport official. This sees me trackside many weekends a year, where I'm part of a large team charged with keeping the competitors and spectators safe, while ensuring the efficient and fair running of the event. I've started to get involved with timekeeping, which sees me further my screen tan.
+When not inside getting a screen tan, I am a volunteer motorsport official. I have been an official since 2015, working in many areas such as flagging, paddock marshaling, and track marshaling. Since 2023, I have moved into timekeeping which has seen me quickly progress into senior roles, such as chief timekeeper for support categories at the Gold Coast 500 in 2024.
 
-{{< imgproc img="nick-official.jpeg" command="Resize" options="x250" alt="A picture of a white, balding man with a grey and brown beard. He is wearing a dull-green GitHub cap with a radio headset over it, dark sunglasses, a bright orange hi-vis short and a lanyard around his neck holding a whistle. He looks very official!" >}}I love being a motorsport official!{{< /imgproc >}}
+{{< imgproc img="FB_IMG_1737108967029.jpg" command="Resize" options="x250" alt="A white, balding man with a grey and brown beard. He is wearing a blue polo shirt and glasses, sitting in front of computer screens showing timing information. He looks very official!" >}}I love being a motorsport official!{{< /imgproc >}}
+
+This has seen me work alongside other experienced officials to build a volunteer group named [GP Timers](https://gptimers.com.au) for timekeepers in South East Queensland. We hope to provide a safe and fun environment for people to learn timekeeping at circuit events and find an outlet for their passion.  
 
 Alternatively, I'll be found at home with my wife [Natalie](https://definatalie.com) and doggo Lucy.
 
