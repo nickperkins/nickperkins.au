@@ -13,11 +13,13 @@ target: "_blank"
 
 My name is Nick Perkins, and this is my personal blog. This is where I come to jot down my thoughts on things that interest me, like cloud computing, infrastructure as code, Kubernetes, platform engineering, motorsport... I guess nothing much is off limits.
 
-I currently work for Domino's Pizza Enterprises (DPE) as Principal DevOps Engineer, as the Tech Lead on the Platform Foundation team. I help drive the adoption of Platform Engineering culture at DPE, and work with stakeholders across Cloud Engineering, Architecture, Software Engineering and more to strive. I run fortnightly DevOps brown bag sessions to help build a community of engineers who embrace and share better engineering practices. 
+I currently work for Domino's Pizza Enterprises (DPE) in the role of Principal DevOps Engineer. I am the technical lead on the Platform Foundation team which is a product team working to reducing the cognitive load experienced by DPE engineers.
+
+I help drive the adoption of Platform Engineering culture at DPE, and work with stakeholders across Cloud Engineering, Architecture, Software Engineering and more to strive. I run fortnightly DevOps brown bag sessions to help build a community of engineers who embrace and share better engineering practices. 
 
 Before joining DPE, I was a Senior DevOps Engineer at Hutly, and a Software Engineer at Arkose Labs.
 
-I have more than twelve years of experience as a software engineer, plus experience in business analysis, project management and team leadership. Before that, I worked in financial administration and assets management within the public sector for over seven years.
+I have have many years of experience as a software engineer, plus experience in business analysis, project management and team leadership. Before that, I worked in financial administration and assets management within the public sector for over seven years.
 
 What to some people may look like a weird path to travel has allowed me to develop a bunch of soft skills to go along with my technical skills.
 
