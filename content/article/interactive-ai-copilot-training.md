@@ -34,20 +34,30 @@ Here's a typical learning session:
 
 ### AI Response
 
-GitHub Copilot acts as a knowledgeable tutor, guiding users through migration scenarios. It might present an Azure DevOps YAML pipeline for a Node.js app and ask the user to identify its components.
+GitHub Copilot immediately transforms into a knowledgeable tutor:
 
-```yaml
-trigger:
-  - main
-
-pool:
-  vmImage: 'ubuntu-latest'
-
-steps:
-  - task: NodeTool@0
-    inputs:
-      versionSpec: '18.x'
-```
+> 🚀 **Welcome to Node.js Build Migration!**
+>
+> I'm going to help you understand how to migrate Azure DevOps pipelines for Node.js applications to GitHub Actions.
+>
+> Let me start by showing you a typical Azure DevOps pipeline, then we'll convert it together step by step.
+>
+> Here's an Azure DevOps YAML pipeline for a Node.js app:
+>
+> ```yaml
+> trigger:
+> - main
+>
+> pool:
+>   vmImage: 'ubuntu-latest'
+>
+> steps:
+> - task: NodeTool@0
+>   inputs:
+>     versionSpec: '18.x'
+> ```
+>
+> Before we convert this, tell me: what stands out to you as the main components of this pipeline?
 
 ### Interactive Learning
 
