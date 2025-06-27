@@ -76,7 +76,7 @@ The platform successfully covers:
 * Complete Azure DevOps to GitHub Actions migration
 * Advanced topics like matrix builds, environments, and caching
 * Real-world scenarios across multiple technology stacks
-* ✅roubleshooting and debugging techniques
+* Troubleshooting and debugging techniques
 * Team collaboration patterns
 
 ## Implementation Guide: Building Your Own AI Training Platform
