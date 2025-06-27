@@ -119,4 +119,4 @@ This example platform includes:
 
 You will find the complete source code and instructions in [this repository](https://github.com/nickperkins/github-copilot-interactive-trainer-demo). Feel free to fork it and tweak it for your own training needs—whether it's framework migrations, adopting new tech, or any other technical learning goal!
 
-The future of technical training is interactive, intelligent, and incredibly engaging. Give it a try!exit
+The future of technical training is interactive, intelligent, and incredibly engaging. Give it a try!
