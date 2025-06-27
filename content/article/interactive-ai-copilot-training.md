@@ -13,11 +13,11 @@ One of my current projects is a migration from Azure DevOps to GitHub Actions. I
 
 DevOps engineers need practical, interactive, adaptive, and contextual training. Traditional methods often fall short, unable to adapt to individual learning styles or keep pace with rapidly changing tech. To address this, I used GitHub Copilot's Agent Mode to create an intelligent tutor for personalised, interactive learning. The platform has three key parts:
 
-1. Topic-Based Folder Structure - Numbered folders with `README.md`s provide a clear, lightweight learning path. Folders allow you to add additional resources and examples where relevant.
+* Topic-Based Folder Structure - Numbered folders with `README.md`s provide a clear, lightweight learning path. Folders allow you to add additional resources and examples where relevant.
 
-2. AI Instruction Files - Each topic has an instruction file telling Copilot how to train, including pedagogical instructions, examples, exercises, assessments, and troubleshooting.
+* AI Instruction Files - Each topic has an instruction file telling Copilot how to train, including pedagogical instructions, examples, exercises, assessments, and troubleshooting.
 
-3. Global Copilot Configuration - A master instruction file (`.github/copilot-instructions.md`) defines the AI tutor's overall behaviour: personality, learning methodology, audience understanding, and the "start the training" trigger.
+* Global Copilot Configuration - A master instruction file (`.github/copilot-instructions.md`) defines the AI tutor's overall behaviour: personality, learning methodology, audience understanding, and the "start the training" trigger.
 
 The "Magic Trigger" is the secret sauce. Typing "start the training" into the GitHub Copilot chat while in a topic's README makes Copilot identify the topic, load instructions, and begin an interactive, personalised session, adapting to user responses and providing real-time feedback.
 
@@ -119,4 +119,4 @@ This example platform includes:
 
 You will find the complete source code and instructions in [this repository](https://github.com/nickperkins/github-copilot-interactive-trainer-demo). Feel free to fork it and tweak it for your own training needs—whether it's framework migrations, adopting new tech, or any other technical learning goal!
 
-The future of technical training is interactive, intelligent, and incredibly engaging. Give it a try!exit
+The future of technical training is interactive, intelligent, and incredibly engaging. Give it a try!
