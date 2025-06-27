@@ -7,7 +7,7 @@ categories: ["software-development"]
 description: "I built an interactive, AI-powered training platform for GitHub Actions migration using a new approach with GitHub Copilot Agent Mode. Here's how."
 ---
 
-Organisations are moving from Azure DevOps to GitHub Actions. I saw a challenge: how to effectively train DevOps teams on new tools in an engaging, practical way? Traditional docs and tutorials often miss the mark. So, I experimented: using GitHub Copilot's Agent Mode to build an interactive, AI-powered training platform. The result was a self-paced, conversational learning experience, guiding users through complex migration scenarios like having an AI tutor.
+One of my current projects is a migration from Azure DevOps to GitHub Actions. I saw a challenge: how to effectively train DevOps teams on new tools in an engaging, practical way? Traditional docs and tutorials often miss the mark. So, I experimented: using GitHub Copilot's Agent Mode to build an interactive, AI-powered training platform. The result was a self-paced, conversational learning experience, guiding users through complex migration scenarios like having an AI tutor.
 
 ## The Challenge: Making Technical Training Engaging
 
@@ -19,7 +19,7 @@ I used GitHub Copilot's Agent Mode to create an intelligent tutor for personalis
 
 ### Topic-Based Folder Structure
 
-Numbered folders with `README.md`s provide a clear, lightweight learning path.
+Numbered folders with `README.md`s provide a clear, lightweight learning path. Folders allow you to add additional resources and examples where relevant.
 
 ### AI Instruction Files
 
@@ -31,7 +31,7 @@ A master instruction file (`.github/copilot-instructions.md`) defines the AI tut
 
 ### The Magic Trigger
 
-Typing "start the training" in a topic's README makes Copilot identify the topic, load instructions, and begin an interactive, personalised session, adapting to user responses and providing real-time feedback.
+Typing "start the training" into the GitHub Copilot chat while in a topic's README makes Copilot identify the topic, load instructions, and begin an interactive, personalised session, adapting to user responses and providing real-time feedback.
 
 ## How It Works in Practice
 
@@ -71,23 +71,17 @@ I started by using Microsoft Copilot to craft the perfect prompt, defining the v
 
 ## The Results: What This Approach Delivered
 
-### What Learners Get
-
-Learners get a personalised, always-available, interactive, and practical experience that builds confidence.
-
-### What Organisations Get
-
-Organisations benefit from scalable, consistent, cost-effective, and self-maintaining training.
+Learners get a personalised, always-available, interactive, and practical experience that builds confidence. Organisations benefit from scalable, consistent, cost-effective, and self-maintaining training.
 
 ### The Technical Upshot
 
 The platform successfully covers:
 
-* ✅ Complete Azure DevOps to GitHub Actions migration
-* ✅ Advanced topics like matrix builds, environments, and caching
-* ✅ Real-world scenarios across multiple technology stacks
-* ✅ Troubleshooting and debugging techniques
-* ✅ Team collaboration patterns
+* Complete Azure DevOps to GitHub Actions migration
+* Advanced topics like matrix builds, environments, and caching
+* Real-world scenarios across multiple technology stacks
+* ✅roubleshooting and debugging techniques
+* Team collaboration patterns
 
 ## Implementation Guide: Building Your Own AI Training Platform
 
@@ -106,17 +100,20 @@ The platform successfully covers:
 
 ## Best Practices and Lessons Learned
 
-### Designing Your Instructions
+Designing Your Instructions
+* Be specific in your instructions—clearly outline what the AI should do at each step.
+* Include concrete examples to illustrate concepts and guide learners through tasks.
+* Define the AI tutor’s personality and plan out interaction flows to ensure a consistent, engaging experience.
 
-Be specific, include examples, define personality, and plan interaction flows.
+Structuring Your Content
+* Break content into bite-sized, logically ordered topics
+* Define clear triggers and instructions
+* Include reference materials and quick links
 
-### Structuring Your Content
-
-Ensure logical progression, bite-sized topics, clear triggers, and reference materials.
-
-### User Experience Tips
-
-Set expectations, provide navigation, enable flexibility, and gather feedback.
+User Experience Tips
+* Set clear expectations
+* Provide intuitive navigation
+* Enable flexibility and gather feedback
 
 ## Conclusion: The Future of Technical Training
 
@@ -134,7 +131,7 @@ This example platform includes:
 * Hands-on code examples and practice exercises
 * The nostalgic fun of modernising classic jQuery patterns
 
-**[Check out the example platform](https://github.com/nickperkins/github-copilot-interactive-trainer-demo)** to see exactly how the AI-powered training works in practice.
+**[Check out the demo](https://github.com/nickperkins/github-copilot-interactive-trainer-demo)** I've created to see exactly how the AI-powered training works in practice.
 
 You can find the complete source code and instructions in this repository. Feel free to fork it and tweak it for your own training needs—whether it's framework migrations, adopting new tech, or any other technical learning goal!
 
