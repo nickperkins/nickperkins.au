@@ -8,7 +8,7 @@ tags: [MCP, Model Context Protocol, TypeScript, AI tools, interactive tools, eli
 toc: false
 author: "Nick Perkins"
 ---
-The Model Context Protocol (MCP) is revolutionising how we build AI tools, but one of its most powerful features often gets overlooked: elicitations. These enable your MCP tools to have interactive conversations with users, gathering input dynamically rather than requiring all parameters upfront. Let me show you how to build engaging, interactive MCP tools using a practical ice cream topping recommender as our example.
+The Model Context Protocol (MCP) is revolutionising how we build AI tools, but one of its most powerful news features as just recently been added to the protocol will be a game changer: elicitations. These enable your MCP tools to have interactive conversations with users, gathering input dynamically rather than requiring all parameters upfront. Let me show you how to build engaging, interactive MCP tools using a practical ice cream topping recommender as our example.
 
 ## What Are MCP Elicitations?
 
@@ -16,7 +16,7 @@ Elicitations in MCP allow tools to prompt users for additional information when 
 
 Think of it like this: rather than requiring users to specify every parameter in their initial request, your tool can guide them through the process step by step, asking clarifying questions along the way.
 
-## The Ice Cream MCP Server: A Simple but Powerful Example
+## The Ice Cream MCP Server: An Example Implementation
 
 I built a minimal MCP server that demonstrates elicitations perfectly. The `ice_cream_topping_recommender` tool suggests toppings based on ice cream flavours, but here's the clever part: if no flavour is provided, it doesn't fail—it asks the user to choose one.
 
