@@ -11,6 +11,11 @@ author: "Nick Perkins"
 
 Over the past couple of years, I've been working extensively with GitHub Enterprise in large organisational settings. While GitHub has built an exceptional developer experience and continues to ship features at an impressive pace, the reality is that GitHub Enterprise still has significant gaps when it comes to enterprise-scale operations. Let me share what I've discovered about the current state of GitHub Enterprise from a platform engineering perspective.
 
+<!-- LTeX: enabled=false -->
+{{< imgproc img="james-harrison-vpOeXr5wmR4-unsplash.jpg" command="Resize" options="x400" alt="A picture of a white man with a grey and brown beard. He is wearing a fawn coloured hat with a HRCCQ logo, orange hi-viz shirt and black sunglasses. He has a radio headset on." >}}Photo by <a href="https://unsplash.com/@jstrippa?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">James Harrison</a> on <a href="https://unsplash.com/photos/black-laptop-computer-turned-on-on-table-vpOeXr5wmR4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      {{< /imgproc >}}
+<!-- LTeX: enabled=true -->
+
 ## The Repository-Centric Challenge
 
 GitHub's architecture is fundamentally repository-focused, which works brilliantly for individual projects and small teams. However, this design becomes a significant limitation when you're managing hundreds or thousands of repositories across an enterprise. Features that should operate at an organisational level often require manual configuration per repository, or worse, custom tooling to manage at scale.
@@ -34,6 +39,10 @@ Here's where things get interesting: GitHub Actions excels at continuous integra
 However, when it comes to continuous deployment and delivery, GitHub Actions starts to show its limitations. Deployment orchestration across multiple environments, approval workflows, rollback mechanisms, and deployment tracking all feel like afterthoughts rather than core platform capabilities. You end up building complex workflows that would be standard features in dedicated CD platforms.
 
 This creates an interesting architectural decision: should you split your CI and CD concerns? I'm increasingly seeing organisations adopt this hybrid approach—using GitHub Actions for CI while handling CD through more mature platforms like Azure DevOps, GitLab, or dedicated deployment tools. It's not the unified workflow GitHub promotes, but it plays to each platform's strengths.
+
+<!-- LTeX: enabled=false -->
+{{< imgproc img="matthew-henry-Rd9uwddKoRA-unsplash(1).jpg" command="Resize" options="x400" alt="A large, deteriorating water slide complex photographed in winter, with multiple intertwining blue slides winding around a tall central structure. The slides appear abandoned and unused, set against a snowy landscape with bare trees in the background. The infrastructure looks weathered and in disrepair, creating a stark, desolate atmosphere." >}}Photo by <a href="https://unsplash.com/@matthewhenry?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Matthew Henry</a> on <a href="https://unsplash.com/photos/blue-plastic-spiral-slides-Rd9uwddKoRA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>{{< /imgproc >}}
+<!-- LTeX: enabled=true -->
 
 ## The Cost Equation
 
